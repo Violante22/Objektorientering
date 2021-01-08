@@ -19,7 +19,7 @@ namespace Matematica
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
-    {
+    {//Test
         Exercise exercise;
 
         public MainWindow()
